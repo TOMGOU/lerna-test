@@ -1,6 +1,6 @@
 {
   "name": "custom-canvas-api",
-  "version": "0.0.1",
+  "version": "1.0.13",
   "description": "custom canvas api for common shape",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/TOMGOU/custom-canvas-api/issues"
   },
-  "homepage": "https://github.com/TOMGOU/custom-canvas-api#readme"
+  "homepage": "https://github.com/TOMGOU/custom-canvas-api#readme",
+  "gitHead": "6b945b1915a10fe47ea86c3225d85fd30d4775c0"
 }
